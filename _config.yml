@@ -24,7 +24,7 @@ github_username:  spiroskous
 
 # Build settings
 markdown: kramdown
-theme: jekyll-Minima
+theme: Minima
 plugins:
   - jekyll-feed
 
