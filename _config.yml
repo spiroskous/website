@@ -24,7 +24,7 @@ github_username:  spiroskous
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
