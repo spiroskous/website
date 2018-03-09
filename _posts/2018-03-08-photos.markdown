@@ -4,7 +4,7 @@ title:  "photos!"
 date:   2018-03-08 22:20:14 +0100
 
 ---
-![My first picture](/images/s.png)
+![My first picture](/website/images/s.png)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
