@@ -4,7 +4,7 @@ title:  "photoa!"
 date:   2018-03-08 22:20:14 +0100
 
 ---
-![My first picture](/_images/s.png){:class="img-responsive"}
+[My first picture]:(/website/_images/s.png){:class="img-responsive"}
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
