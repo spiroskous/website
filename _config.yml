@@ -25,8 +25,8 @@ github_username:  spiroskous
 # Build settings
 markdown: kramdown
 #remote_theme: jekyll-theme-hacker
-#theme: jekyll-swiss
-theme-color: gray
+theme: jekyll-swiss
+theme_color: gray
 
 plugins:
   - jekyll-feed
