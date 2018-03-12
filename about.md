@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: CV
 permalink: /CV/
+
 ---
 Spyridon KOUSIDIS
 
