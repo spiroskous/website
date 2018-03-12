@@ -26,6 +26,7 @@ github_username:  spiroskous
 markdown: kramdown
 remote_theme: jekyll-theme-hacker
 theme: jekyll-swiss
+theme-color: gray
 
 plugins:
   - jekyll-feed
