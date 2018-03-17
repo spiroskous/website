@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stay Creative ...
+title:  Murto Gurna PISW i estw Thlefwna. !!!!!
 email: spiros.kousidis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal site of Spiros Kous
