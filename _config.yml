@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  Stay Creative
-webrick:
   headers:
     My-Header: My-Value
     My-Other-Header: My-Other-Value
@@ -29,6 +28,7 @@ github_username:  spiroskous
 # Build settings
 markdown: kramdown
 #remote_theme: jekyll-theme-hacker
+layout: home
 theme: jekyll-swiss
 theme_color: black
 
