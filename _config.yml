@@ -14,9 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  Stay Creative
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
 email: spiros.kousidis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal site of Spiros Kous
