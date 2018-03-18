@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-
 ---
-![my pic]({{ "/assets/me.jpg" | absolute_url }})
+![my picture]({{ "/assets/me.jpg" | absolute_url }})
 
 Hi to Everyone - Γειἀ σε όλους  - Hallo !
 

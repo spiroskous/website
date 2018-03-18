@@ -3,10 +3,11 @@ layout: post
 title:  "Different types of data!"
 date:  18-03-2018
 category: Security
+author:  spiros
 ---
-There are different types of data
+There are different types of data which we will describe..
 
-Loading ...
+
 
 
 <div class="post-categories">
