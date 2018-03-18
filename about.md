@@ -4,15 +4,16 @@ title: about
 permalink: /about/
 
 ---
-Spyridon KOUSIDIS
+
+Hi to Everyone !
 
 
 
 
-This is the one and only site where you can find more about
+
+For more information about my career till now you can check  [my CV]({{ "/assets/CV Spyridon KOUSIDIS.pdf" | absolute_url }}) !
 
 
 
 
-You can find the source code for Jekyll at GitHub:
-[spiros](https://www.google.ch)
+

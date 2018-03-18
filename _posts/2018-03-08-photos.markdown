@@ -7,6 +7,7 @@ date:   2018-03-08 22:20:14 +0100
 Welcome to our new website posts
 
 
-![My helpful screenshot]({{ "/assets/lock.jpg" | absolute_url }})
+![My helpful screenshot]({{ "/assets/lock.jpg" | absolute_url }}) 
+
 
 This blog will present some useful articles about cryptography, computer security and secure code development
