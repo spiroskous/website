@@ -1,9 +1,12 @@
 ---
-layout: default
-title:  "photos!"
+layout: post
+title:  "Welcome!"
 date:   2018-03-08 22:20:14 +0100
 
 ---
+Welcome to our new website posts
+
+
 ![My first picture](/_website/images/s.png)
 
 

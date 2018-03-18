@@ -1,7 +1,7 @@
 ---
 layout: page
-title: look
-permalink: /look/
+title: about
+permalink: /about/
 
 ---
 Spyridon KOUSIDIS
@@ -9,14 +9,10 @@ Spyridon KOUSIDIS
 
 
 
-
+This is the one and only site where you can find more about
 
 
 
 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](www.google.com)
-
-
-[jekyll-organization]: www.auto.ch
+[spiros](https://www.google.ch)
