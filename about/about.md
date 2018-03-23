@@ -24,7 +24,11 @@ This incident was influenced me in a way to learn more about Computer systems an
 
 For more information about my career till now you can check  [my CV]({{ "/assets/CV Spyridon KOUSIDIS.pdf" | absolute_url }}) !
 
+--------------------------------------
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="spiros-kousidis-87243aa5"><a class="LI-simple-link" href='https://ch.linkedin.com/in/spiros-kousidis-87243aa5?trk=profile-badge'>Spiros Kousidis</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
 
